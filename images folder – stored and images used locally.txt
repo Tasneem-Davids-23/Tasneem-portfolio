@@ -1,0 +1,10 @@
+    <section id="home">
+      <h2>Welcome to My Portfolio</h2>
+      <p>Hi there, I'm Tasneem, a creative footwear specialist who designs stylish and functional shoes. Whether it's high-performance sneakers or elegant custom heels, I bring unique ideas to life with attention to detail and love for every sole.</p>
+      <div class="gallery">
+        <img src="https://images.unsplash.com/photo-1586363104864-6b1d9341b8b1" alt="Sneaker design">
+        <img src="https://images.unsplash.com/photo-1589187155478-3b58e3f74d42" alt="Heels fashion">
+        <img src="https://images.unsplash.com/photo-1600180758890-68c3eebf763b" alt="Fashionable sneakers">
+        <img src="https://images.unsplash.com/photo-1603808033193-b84ec48b5d5d" alt="Elegant high heels">
+      </div>
+    </section>
